@@ -4,3 +4,7 @@ Repository containing reusable front-end templates, including landing pages, ins
 ## Template Barber Shop
 
 <img src="BarberShop/screenshot.png" height="400" alt=""/>
+
+## Landing Page 1
+
+<img src="LandingPage1/screenshot.png" height="400" alt=""/>
